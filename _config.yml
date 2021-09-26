@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Laznick InfoSec Blog
+title: Laznick InfoSec Blog.
 
 # Your name to show in the footerr
 author: Laznick
@@ -216,7 +216,7 @@ defaults:
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
-      layout: "page"
+      layout: "pagez"
 
 # Exclude these files from production site
 exclude:
