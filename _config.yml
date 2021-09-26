@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: Laznick's website
+title: iBruteforce InfoSec Blog
 
-# Your name to show in the footer
-author: Laznick
+# Your name to show in the footerr
+author: iBruteforce
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Beautiful Jekyll: ""
+    - Learn markdown: ""
+  Author's home: ""
 
 # --- Logo --- #
 
@@ -40,11 +40,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: 
+  github: 
+  twitter: 
+  patreon:
+  youtube: 
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
